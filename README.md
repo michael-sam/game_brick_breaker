@@ -1,4 +1,4 @@
-# brick-breaker
+# Brick Breaker Game
 
 **Author:** Sam Yong Zhi
 
